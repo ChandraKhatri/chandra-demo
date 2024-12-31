@@ -1,2 +1,3 @@
 # chandra-demo
-This is my 1st Repositiry.
+This is my 1st Repository.
+Author = chandra khatri
